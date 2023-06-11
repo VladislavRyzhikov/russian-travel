@@ -15,16 +15,13 @@
 
 @media (max-width: 1025px) {
   .photo-grid {
+    width: calc(100% - 48px);
     grid-template-columns: repeat(3, 1fr);
     gap: 14px;
   }
 }
 
-@media (max-width: 1025px) {
-  .photo-grid {
-    width: calc(100% - 48px);
-  }
-}
+
 
 @media (max-width: 769px) {
   .photo-grid {

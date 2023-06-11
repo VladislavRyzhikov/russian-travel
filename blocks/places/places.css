@@ -22,7 +22,6 @@
 
 @media (max-width: 769px) {
   .places {
-    width: calc(100% - 48px);
     padding-bottom: 90px;
   }
 }
