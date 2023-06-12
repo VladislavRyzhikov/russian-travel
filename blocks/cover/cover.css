@@ -8,15 +8,11 @@
   background-repeat: no-repeat;
 }
 
-@media (max-width: 1280px) {
+
+
+@media (max-width: 1025px) {
   .cover {
     width: 100%;
-    /* background-size: cover; */
-  }
-}
-
-@media (max-width: 1024px) {
-  .cover {
     min-height: 640px;
   }
 }
