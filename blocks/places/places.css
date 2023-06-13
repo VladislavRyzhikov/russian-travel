@@ -13,16 +13,13 @@
   }
 }
 
-@media (max-width: 1024px) {
-  .places {
-    gap: 73px;
-  }
-}
+
 
 @media (max-width: 768px) {
   .places {
     padding-bottom: 90px;
     width: calc(100% - 48px);
+    gap: 73px;
   }
 }
 
