@@ -5,10 +5,10 @@
   display: flex;
   justify-content: space-between;
   align-items: flex-end;
-  position: fixed;
   top: 0;
-  left: 48px;
+  position: sticky;
   overflow: hidden;
+  background-color: #2a2c2f;
 }
 
 @media (max-width: 1025px) {
