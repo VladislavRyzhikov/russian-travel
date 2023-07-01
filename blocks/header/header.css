@@ -5,6 +5,10 @@
   display: flex;
   justify-content: space-between;
   align-items: flex-end;
+  position: fixed;
+  top: 0;
+  left: 48px;
+  overflow: hidden;
 }
 
 @media (max-width: 1025px) {
